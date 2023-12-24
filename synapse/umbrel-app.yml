@@ -2,7 +2,7 @@ manifestVersion: 1.1
 id: synapse
 category: social
 name: Synapse
-version: "1.42.0"
+version: "1.98.0"
 tagline: Matrix reference homeserver
 description: >-
   Synapse is a reference "homeserver" implementation of Matrix from
@@ -33,5 +33,5 @@ path: ""
 defaultUsername: ""
 defaultPassword: ""
 torOnly: false
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel/commit/c9f0975e766e79d4bd6adf4255cd081f54d654cb
+submitter: zeptin
+submission: https://github.com/
